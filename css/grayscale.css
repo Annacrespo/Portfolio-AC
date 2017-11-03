@@ -41,6 +41,9 @@ a {
   a:focus, a:hover {
     text-decoration: none;
     color: #1d9b6c; }
+li {
+  list-style-type: none;
+}
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
